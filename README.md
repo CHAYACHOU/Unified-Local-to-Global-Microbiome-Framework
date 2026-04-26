@@ -25,7 +25,8 @@ The unified local-to-global-microbiome framework is a three-stage framework, int
 - Matlab R2021b
 # hiPCA model
 ## Environment Dependencies
-'''Python 3.8.3 
+```text
+Python 3.8.3 
 pandas 2.0.3
 numpy 1.23.5
 scikit-learn 1.3.2
